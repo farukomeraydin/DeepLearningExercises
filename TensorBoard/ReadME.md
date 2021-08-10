@@ -8,3 +8,6 @@ Execute part1 then part2.
 After running  parts, debugging can be done with tensorboard.ipynb
 
 Results are as follows:
+
+
+![With_Dense__Layer_epoch_acc.jpg]
