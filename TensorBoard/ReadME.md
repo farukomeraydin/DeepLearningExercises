@@ -14,3 +14,5 @@ Results are as follows:
 
 
 ![epoch_loss](https://user-images.githubusercontent.com/59957778/128923046-5882c7db-b2a5-4d9f-948a-a062d7def996.jpg)
+
+Blue line is for training data and orange is for test data
