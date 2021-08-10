@@ -10,4 +10,4 @@ After running  parts, debugging can be done with tensorboard.ipynb
 Results are as follows:
 
 
-![With_Dense__Layer_epoch_acc.jpg]
+![epoch_acc](https://user-images.githubusercontent.com/59957778/128922708-f29f1ef3-bb44-427a-b4e8-1b7050657b31.jpg)
